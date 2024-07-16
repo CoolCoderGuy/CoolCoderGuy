@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CoolCoderGuy
 - 👀 I’m interested in Gaming, modding old consoles, and website development.
-- 🌱 I’m currently learning making websites using html, Javascript, and CSS.
+- 🌱 I’m currently learning how to make custom Wii U themes.
 - 😄 Pronouns: He/He/He/Ha
 - ⚡ Fun fact: Coding is cool
 
